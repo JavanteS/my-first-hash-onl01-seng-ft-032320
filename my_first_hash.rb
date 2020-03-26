@@ -1,6 +1,5 @@
 def my_hash
-  my_hash={"breakfast" => "oatmeal","lunch" => "steak","dinner"
-=> "soup"}
+  my_hash={"breakfast" => "oatmeal","lunch" => "steak","dinner"=> "soup"}
   
 end
 
